@@ -1,0 +1,2587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>TOBY SANDERS</title>
+    <link>https://www.tobysanders.co.uk</link>
+    <pubDate>Wed, 20 Sep 2023 08:05:22 +0000</pubDate>
+    <description />
+    <language>en-GB</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-1711176980</wp:author_id>
+      <wp:author_login>toby.sanders93@gmail.com</wp:author_login>
+      <wp:author_email>toby.sanders93@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Toby Sanders]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Toby]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Sanders]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Wed, 20 Sep 2023 10:59:48 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="650aa7cb08d0555603c571ae">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="650aa7cb08d0555603c571b2"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-650aa7cb08d0555603c571b1 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(11,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-650aa7cb08d0555603c571b1 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-650aa7cb08d0555603c571b1 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(22,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-cc6deeb0aa579fc3495b {
+    grid-area: 1/2/10/10;
+    z-index: 1;
+  }
+
+  .fe-block-cc6deeb0aa579fc3495b .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-cc6deeb0aa579fc3495b .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-cc6deeb0aa579fc3495b {
+      grid-area: 1/2/21/26;
+      z-index: 1;
+    }
+
+    .fe-block-cc6deeb0aa579fc3495b .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-cc6deeb0aa579fc3495b .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1695197416046_10526 {
+    grid-area: 10/2/12/10;
+    z-index: 2;
+  }
+
+  .fe-block-yui_3_17_2_1_1695197416046_10526 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695197416046_10526 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695197416046_10526 {
+      grid-area: 21/4/23/24;
+      z-index: 2;
+    }
+
+    .fe-block-yui_3_17_2_1_1695197416046_10526 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695197416046_10526 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-650aa7cb08d0555603c571b1"><div class="fe-block fe-block-cc6deeb0aa579fc3495b"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="78.44257903197" data-block-type="5" id="block-cc6deeb0aa579fc3495b"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-right
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);border-top-left-radius: 20px;border-top-right-radius: 20px;border-bottom-left-radius: 20px;border-bottom-right-radius: 20px;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/books/#choice"
+              
+            >
+              
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/7c161756-aba5-48a3-b495-4362facb7d72/Cover+with+background.jpg" data-image="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/7c161756-aba5-48a3-b495-4362facb7d72/Cover+with+background.jpg" data-image-dimensions="4000x2667" data-image-focal-point="0.5,0.5" alt="A book cover for the novel with burning flames in the background" data-load="false" src="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/7c161756-aba5-48a3-b495-4362facb7d72/Cover+with+background.jpg" width="4000" height="2667" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/7c161756-aba5-48a3-b495-4362facb7d72/Cover+with+background.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/7c161756-aba5-48a3-b495-4362facb7d72/Cover+with+background.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/7c161756-aba5-48a3-b495-4362facb7d72/Cover+with+background.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/7c161756-aba5-48a3-b495-4362facb7d72/Cover+with+background.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/7c161756-aba5-48a3-b495-4362facb7d72/Cover+with+background.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/7c161756-aba5-48a3-b495-4362facb7d72/Cover+with+background.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/7c161756-aba5-48a3-b495-4362facb7d72/Cover+with+background.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-cc6deeb0aa579fc3495b .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1695197416046_10526"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1695197416046_10526"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><em>World War Z meets 28 Days Later in this chaotic, postapocalyptic thriller from debut author Toby Sanders.<br></em></p>
+</div>
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="650abd0f471e873a8f2c6487"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false,
+    &quot;type&quot;: &quot;wavy&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 6.0
+    },
+    &quot;isFlipX&quot;: false,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;solid&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-650abd0f471e873a8f2c6486 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(25,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-650abd0f471e873a8f2c6486 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-650abd0f471e873a8f2c6486 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(24,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-eaec48c15ef8c9f5f0d1 {
+    grid-area: 2/2/5/10;
+    z-index: 0;
+  }
+
+  .fe-block-eaec48c15ef8c9f5f0d1 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-eaec48c15ef8c9f5f0d1 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-eaec48c15ef8c9f5f0d1 {
+      grid-area: 3/2/6/26;
+      z-index: 0;
+    }
+
+    .fe-block-eaec48c15ef8c9f5f0d1 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-eaec48c15ef8c9f5f0d1 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-30e9aab85f38c0f35478 {
+    grid-area: 5/2/12/5;
+    z-index: 1;
+  }
+
+  .fe-block-30e9aab85f38c0f35478 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-30e9aab85f38c0f35478 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-30e9aab85f38c0f35478 {
+      grid-area: 6/2/24/9;
+      z-index: 1;
+    }
+
+    .fe-block-30e9aab85f38c0f35478 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-30e9aab85f38c0f35478 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-22f779bd35ef3e153ddc {
+    grid-area: 5/7/12/10;
+    z-index: 4;
+  }
+
+  .fe-block-22f779bd35ef3e153ddc .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-22f779bd35ef3e153ddc .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-22f779bd35ef3e153ddc {
+      grid-area: 6/10/24/17;
+      z-index: 4;
+    }
+
+    .fe-block-22f779bd35ef3e153ddc .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-22f779bd35ef3e153ddc .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-25a05acccd9363110d53 {
+    grid-area: 13/2/20/5;
+    z-index: 7;
+  }
+
+  .fe-block-25a05acccd9363110d53 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-25a05acccd9363110d53 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-25a05acccd9363110d53 {
+      grid-area: 6/18/24/25;
+      z-index: 7;
+    }
+
+    .fe-block-25a05acccd9363110d53 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-25a05acccd9363110d53 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-650abd0f471e873a8f2c6486"><div class="fe-block fe-block-eaec48c15ef8c9f5f0d1"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-eaec48c15ef8c9f5f0d1"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;">Books</h2>
+</div>
+
+
+
+</div></div></div><div class="fe-block fe-block-30e9aab85f38c0f35478"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-30e9aab85f38c0f35478"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fit"
+              href="/books/#immortal"
+              
+            >
+              
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/531e4d36-90c3-4021-96a5-f23a6acb05f8/Immortal+Ascended+Cover.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/531e4d36-90c3-4021-96a5-f23a6acb05f8/Immortal+Ascended+Cover.jpeg" data-image-dimensions="608x1080" data-image-focal-point="0.5,0.5" alt="A steampunk airship hovers over a barren desert" data-load="false" src="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/531e4d36-90c3-4021-96a5-f23a6acb05f8/Immortal+Ascended+Cover.jpeg" width="608" height="1080" alt="" sizes="(max-width: 768px) 37.5vw, 29.166666666666668vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/531e4d36-90c3-4021-96a5-f23a6acb05f8/Immortal+Ascended+Cover.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/531e4d36-90c3-4021-96a5-f23a6acb05f8/Immortal+Ascended+Cover.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/531e4d36-90c3-4021-96a5-f23a6acb05f8/Immortal+Ascended+Cover.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/531e4d36-90c3-4021-96a5-f23a6acb05f8/Immortal+Ascended+Cover.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/531e4d36-90c3-4021-96a5-f23a6acb05f8/Immortal+Ascended+Cover.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/531e4d36-90c3-4021-96a5-f23a6acb05f8/Immortal+Ascended+Cover.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/531e4d36-90c3-4021-96a5-f23a6acb05f8/Immortal+Ascended+Cover.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-30e9aab85f38c0f35478 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-22f779bd35ef3e153ddc"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-22f779bd35ef3e153ddc"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fit"
+              href="/books/#gold"
+              
+            >
+              
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d8b3968f-ccee-4029-bc94-9ca077ece475/Gold+Fever+Book+Cover.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d8b3968f-ccee-4029-bc94-9ca077ece475/Gold+Fever+Book+Cover.jpeg" data-image-dimensions="1080x1920" data-image-focal-point="0.5,0.5" alt="Gold dust shimmers on a dark background hinting at the thriller story" data-load="false" src="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d8b3968f-ccee-4029-bc94-9ca077ece475/Gold+Fever+Book+Cover.jpeg" width="1080" height="1920" alt="" sizes="(max-width: 768px) 37.5vw, 29.166666666666668vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d8b3968f-ccee-4029-bc94-9ca077ece475/Gold+Fever+Book+Cover.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d8b3968f-ccee-4029-bc94-9ca077ece475/Gold+Fever+Book+Cover.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d8b3968f-ccee-4029-bc94-9ca077ece475/Gold+Fever+Book+Cover.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d8b3968f-ccee-4029-bc94-9ca077ece475/Gold+Fever+Book+Cover.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d8b3968f-ccee-4029-bc94-9ca077ece475/Gold+Fever+Book+Cover.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d8b3968f-ccee-4029-bc94-9ca077ece475/Gold+Fever+Book+Cover.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d8b3968f-ccee-4029-bc94-9ca077ece475/Gold+Fever+Book+Cover.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-22f779bd35ef3e153ddc .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-25a05acccd9363110d53"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-25a05acccd9363110d53"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fit"
+              href="/books/#passage"
+              
+            >
+              
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/f438feb4-006b-4557-9be4-ed18553d65c2/Passage+of+Revenge+Book+Cover.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/f438feb4-006b-4557-9be4-ed18553d65c2/Passage+of+Revenge+Book+Cover.jpeg" data-image-dimensions="1080x1920" data-image-focal-point="0.5,0.5" alt="A detective strides towards a dark sky to solve a crime" data-load="false" src="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/f438feb4-006b-4557-9be4-ed18553d65c2/Passage+of+Revenge+Book+Cover.jpeg" width="1080" height="1920" alt="" sizes="(max-width: 768px) 37.5vw, 29.166666666666668vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/f438feb4-006b-4557-9be4-ed18553d65c2/Passage+of+Revenge+Book+Cover.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/f438feb4-006b-4557-9be4-ed18553d65c2/Passage+of+Revenge+Book+Cover.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/f438feb4-006b-4557-9be4-ed18553d65c2/Passage+of+Revenge+Book+Cover.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/f438feb4-006b-4557-9be4-ed18553d65c2/Passage+of+Revenge+Book+Cover.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/f438feb4-006b-4557-9be4-ed18553d65c2/Passage+of+Revenge+Book+Cover.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/f438feb4-006b-4557-9be4-ed18553d65c2/Passage+of+Revenge+Book+Cover.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/f438feb4-006b-4557-9be4-ed18553d65c2/Passage+of+Revenge+Book+Cover.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-25a05acccd9363110d53 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="650aa7cb08d0555603c571e7"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 0,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(0vmax / 10); padding-bottom: calc(0vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-650aa7cb08d0555603c571e6 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(29,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-650aa7cb08d0555603c571e6 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-650aa7cb08d0555603c571e6 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(17,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1695198868777_9314 {
+    grid-area: 1/2/7/10;
+    z-index: 6;
+  }
+
+  .fe-block-yui_3_17_2_1_1695198868777_9314 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695198868777_9314 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695198868777_9314 {
+      grid-area: 1/1/2/5;
+      z-index: 6;
+    }
+
+    .fe-block-yui_3_17_2_1_1695198868777_9314 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695198868777_9314 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1695198868777_3993 {
+    grid-area: 8/2/14/10;
+    z-index: 5;
+  }
+
+  .fe-block-yui_3_17_2_1_1695198868777_3993 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695198868777_3993 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695198868777_3993 {
+      grid-area: 6/2/9/10;
+      z-index: 5;
+    }
+
+    .fe-block-yui_3_17_2_1_1695198868777_3993 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695198868777_3993 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-45b00c113455defac77c {
+    grid-area: 14/2/19/10;
+    z-index: 4;
+  }
+
+  .fe-block-45b00c113455defac77c .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-45b00c113455defac77c .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-45b00c113455defac77c {
+      grid-area: 9/2/14/10;
+      z-index: 4;
+    }
+
+    .fe-block-45b00c113455defac77c .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-45b00c113455defac77c .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-db8777359552d8549553 {
+    grid-area: 20/1/30/11;
+    z-index: 0;
+  }
+
+  .fe-block-db8777359552d8549553 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-db8777359552d8549553 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-db8777359552d8549553 {
+      grid-area: 2/14/18/27;
+      z-index: 0;
+    }
+
+    .fe-block-db8777359552d8549553 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-db8777359552d8549553 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-650aa7cb08d0555603c571e6"><div class="fe-block fe-block-yui_3_17_2_1_1695198868777_9314"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1695198868777_9314"><div class="sqs-block-content"><p id="about"></p></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1695198868777_3993"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1695198868777_3993"><div class="sqs-block-content"><h2>About Toby</h2>
+</div></div></div><div class="fe-block fe-block-45b00c113455defac77c"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-45b00c113455defac77c"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">I am a self-published novelist based in London, UK. I write fiction novels across the genres of fantasy, post-apocalyptic, sci-fi and thrillers. You can check out my books exclusively on Amazon Kindle!</p><p class="" style="white-space:pre-wrap;">If you want to get in touch then please use the links below. For updates, check out my Twitter / X feed or subscribe to the mailing list. Thanks!</p>
+</div>
+
+
+
+</div></div></div><div class="fe-block fe-block-db8777359552d8549553"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-db8777359552d8549553"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d166441c-f9f8-457d-b72a-2e22803fa081/IMG_2679.jpg" data-image="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d166441c-f9f8-457d-b72a-2e22803fa081/IMG_2679.jpg" data-image-dimensions="602x1136" data-image-focal-point="0.5,0.5" alt="" data-load="false" src="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d166441c-f9f8-457d-b72a-2e22803fa081/IMG_2679.jpg" width="602" height="1136" alt="" sizes="(max-width: 768px) 100vw, 100vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d166441c-f9f8-457d-b72a-2e22803fa081/IMG_2679.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d166441c-f9f8-457d-b72a-2e22803fa081/IMG_2679.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d166441c-f9f8-457d-b72a-2e22803fa081/IMG_2679.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d166441c-f9f8-457d-b72a-2e22803fa081/IMG_2679.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d166441c-f9f8-457d-b72a-2e22803fa081/IMG_2679.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d166441c-f9f8-457d-b72a-2e22803fa081/IMG_2679.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/650aa7c2632d2772298ec018/d166441c-f9f8-457d-b72a-2e22803fa081/IMG_2679.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-db8777359552d8549553 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/books</link>
+      <title>Books</title>
+      <pubDate>Wed, 20 Sep 2023 11:16:35 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="650ac0da8b13d75f8519c320">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="650ac89e50f049757bf05d47"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-650ac89e50f049757bf05d46 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(38,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-650ac89e50f049757bf05d46 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-650ac89e50f049757bf05d46 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(14,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-e014a9eff5c08d7c5d9e {
+    grid-area: 1/2/18/10;
+    z-index: 3;
+  }
+
+  .fe-block-e014a9eff5c08d7c5d9e .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-e014a9eff5c08d7c5d9e .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-e014a9eff5c08d7c5d9e {
+      grid-area: 1/2/15/8;
+      z-index: 3;
+    }
+
+    .fe-block-e014a9eff5c08d7c5d9e .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-e014a9eff5c08d7c5d9e .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_28592 {
+    grid-area: 18/2/24/10;
+    z-index: 5;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_28592 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_28592 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695205488938_28592 {
+      grid-area: 1/2/2/6;
+      z-index: 5;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_28592 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_28592 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_6991 {
+    grid-area: 24/2/26/10;
+    z-index: 4;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_6991 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_6991 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695205488938_6991 {
+      grid-area: 1/8/3/15;
+      z-index: 4;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_6991 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_6991 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-88b92fbff0f673246613 {
+    grid-area: 26/2/39/10;
+    z-index: 2;
+  }
+
+  .fe-block-88b92fbff0f673246613 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-88b92fbff0f673246613 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-88b92fbff0f673246613 {
+      grid-area: 3/8/10/24;
+      z-index: 2;
+    }
+
+    .fe-block-88b92fbff0f673246613 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-88b92fbff0f673246613 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-650ac89e50f049757bf05d46"><div class="fe-block fe-block-e014a9eff5c08d7c5d9e"><div class="sqs-block embed-block sqs-block-embed" data-block-json="&#123;&quot;html&quot;:&quot;&lt;iframe type=\&quot;text/html\&quot; sandbox=\&quot;allow-scripts allow-same-origin allow-popups\&quot; width=\&quot;336\&quot; height=\&quot;550\&quot; frameborder=\&quot;0\&quot; allowfullscreen style=\&quot;max-width:100%\&quot; src=\&quot;https://read.amazon.co.uk/kp/card?asin=B0CH58TYD1&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_BP8MHAQC70TMWYNTQA9X\&quot; &gt;&lt;/iframe&gt;&quot;,&quot;resolvedBy&quot;:&quot;manual&quot;,&quot;customThumbEnabled&quot;:false&#125;" data-block-type="22" id="block-e014a9eff5c08d7c5d9e"><div class="sqs-block-content"><iframe allowfullscreen src="https://read.amazon.co.uk/kp/card?asin=B0CH58TYD1&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_BP8MHAQC70TMWYNTQA9X&amp;wmode=opaque" sandbox="allow-scripts allow-same-origin allow-popups" width="336" data-embed="true" frameborder="0" style="max-width:100%" type="text/html" height="550" ></iframe></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1695205488938_28592"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1695205488938_28592"><div class="sqs-block-content"><p id="choice"></p></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1695205488938_6991"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1695205488938_6991"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">A Choice in Chaos - 2023</h4>
+</div>
+
+
+
+</div></div></div><div class="fe-block fe-block-88b92fbff0f673246613"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-88b92fbff0f673246613"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;"><strong><em>World War Z</em> meets <em>28 Days Later</em> in this chaotic, postapocalyptic thriller from debut author Toby Sanders.</strong></p><p class="" style="white-space:pre-wrap;"><strong><em><br></em></strong><em>After the apocalypse, is there anything but chaos?</em><br><br>Twenty years ago, the X2H virus all but destroyed the world. Now, a sparsely populated England holds the sole survivors. Kyle Frost lost his parents to the victims of the virus, monsters now called Wretches. After his home is attacked, Kyle must seek the help of the legendary Major Blake Armstrong, leader of the Rangers.<br><br>But all is not as it seems as Kyle falls headlong into conspiracy, lies and deceit. He must use all his skills to survive and make unlikely allies as he seeks order from the chaos of the apocalypse.</p>
+</div>
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="650ac5a695eba04be63d4e96"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-650ac5a695eba04be63d4e95 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(18,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-650ac5a695eba04be63d4e95 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-650ac5a695eba04be63d4e95 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(14,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1695205488938_4565 {
+    grid-area: 1/2/9/10;
+    z-index: 3;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_4565 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_4565 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695205488938_4565 {
+      grid-area: 1/2/15/10;
+      z-index: 3;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_4565 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_4565 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_29853 {
+    grid-area: 9/2/15/10;
+    z-index: 5;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_29853 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_29853 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695205488938_29853 {
+      grid-area: 1/2/2/6;
+      z-index: 5;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_29853 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_29853 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_9434 {
+    grid-area: 15/2/17/10;
+    z-index: 4;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_9434 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_9434 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695205488938_9434 {
+      grid-area: 1/8/3/14;
+      z-index: 4;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_9434 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_9434 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-01f76a559e4c98bac352 {
+    grid-area: 17/2/19/10;
+    z-index: 2;
+  }
+
+  .fe-block-01f76a559e4c98bac352 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-01f76a559e4c98bac352 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-01f76a559e4c98bac352 {
+      grid-area: 3/8/13/24;
+      z-index: 2;
+    }
+
+    .fe-block-01f76a559e4c98bac352 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-01f76a559e4c98bac352 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-650ac5a695eba04be63d4e95"><div class="fe-block fe-block-yui_3_17_2_1_1695205488938_4565"><div class="sqs-block embed-block sqs-block-embed" data-block-json="&#123;&quot;customThumbEnabled&quot;:false,&quot;html&quot;:&quot;&lt;iframe type=\&quot;text/html\&quot; sandbox=\&quot;allow-scripts allow-same-origin allow-popups\&quot; width=\&quot;336\&quot; height=\&quot;550\&quot; frameborder=\&quot;0\&quot; allowfullscreen style=\&quot;max-width:100%\&quot; src=\&quot;https://read.amazon.co.uk/kp/card?asin=B0CJ3VVJW6&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_HRE75SZPE855XR15Q39P\&quot; &gt;&lt;/iframe&gt;&quot;&#125;" data-block-type="22" id="block-yui_3_17_2_1_1695205488938_4565"><div class="sqs-block-content"><iframe allowfullscreen src="https://read.amazon.co.uk/kp/card?asin=B0CJ3VVJW6&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_HRE75SZPE855XR15Q39P&amp;wmode=opaque" sandbox="allow-scripts allow-same-origin allow-popups" width="336" data-embed="true" frameborder="0" style="max-width:100%" type="text/html" height="550" ></iframe></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1695205488938_29853"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1695205488938_29853"><div class="sqs-block-content"><p id="gold"></p></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1695205488938_9434"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1695205488938_9434"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">Gold Fever - 2023</h4>
+</div>
+
+
+
+</div></div></div><div class="fe-block fe-block-01f76a559e4c98bac352"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-01f76a559e4c98bac352"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><em>As men seek to tame the Canadian wilds, three brothers strike gold in the Nahanni valley but they and those who follow fail to return. When their bodies are found, one detail is clear. Each of their heads is missing...</em></p><p class="" style="white-space:pre-wrap;"><strong><em><br></em></strong>Stephen King meets Andy McNab in this thriller as Special Forces soldiers are hunted through the Canadian wilderness.<br><br>Fresh from the war in Europe, Liam Stryker is bored and desperate for action. Soon, he and his comrades are catapulted into the Canadian wilderness in search of gold and adventure.<br><br>But the Nahanni river is ancient and its rushing depths hide more than just metal. The cautionary tales of those who came before weigh heavily on them.<br><br>As the land begins to surrender its bounty, Liam and his friends realise that the legends are more than just stories. But other forces are at play and soon the clash of modern weapons and an ancient secret dull the gleaming of gold.<br><br>In this pulse pounding tale of greed, bravery and terror, the Nahanni Valley becomes a crucible where the boundaries between reality and myth blur, and the true price of fortune is measured in blood.</p>
+</div>
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="650ac5f9d4b42458a921f7a4"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-650ac5f9d4b42458a921f7a3 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(38,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-650ac5f9d4b42458a921f7a3 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-650ac5f9d4b42458a921f7a3 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(14,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1695202444338_73202 {
+    grid-area: 1/2/18/10;
+    z-index: 3;
+  }
+
+  .fe-block-yui_3_17_2_1_1695202444338_73202 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695202444338_73202 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695202444338_73202 {
+      grid-area: 1/2/15/8;
+      z-index: 3;
+    }
+
+    .fe-block-yui_3_17_2_1_1695202444338_73202 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695202444338_73202 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_31009 {
+    grid-area: 18/2/24/10;
+    z-index: 5;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_31009 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_31009 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695205488938_31009 {
+      grid-area: 1/2/2/6;
+      z-index: 5;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_31009 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_31009 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_11312 {
+    grid-area: 24/2/26/10;
+    z-index: 4;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_11312 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_11312 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695205488938_11312 {
+      grid-area: 1/8/3/15;
+      z-index: 4;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_11312 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_11312 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-860de2ba2d7a86267593 {
+    grid-area: 26/2/39/10;
+    z-index: 2;
+  }
+
+  .fe-block-860de2ba2d7a86267593 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-860de2ba2d7a86267593 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-860de2ba2d7a86267593 {
+      grid-area: 3/8/10/24;
+      z-index: 2;
+    }
+
+    .fe-block-860de2ba2d7a86267593 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-860de2ba2d7a86267593 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-650ac5f9d4b42458a921f7a3"><div class="fe-block fe-block-yui_3_17_2_1_1695202444338_73202"><div class="sqs-block embed-block sqs-block-embed" data-block-json="&#123;&quot;customThumbEnabled&quot;:false,&quot;html&quot;:&quot;&lt;iframe type=\&quot;text/html\&quot; sandbox=\&quot;allow-scripts allow-same-origin allow-popups\&quot; width=\&quot;336\&quot; height=\&quot;550\&quot; frameborder=\&quot;0\&quot; allowfullscreen style=\&quot;max-width:100%\&quot; src=\&quot;https://read.amazon.co.uk/kp/card?asin=B0CJ3TYCXY&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_4PAFKYM012ZG8YXH12DF\&quot; &gt;&lt;/iframe&gt;&quot;&#125;" data-block-type="22" id="block-yui_3_17_2_1_1695202444338_73202"><div class="sqs-block-content"><iframe allowfullscreen src="https://read.amazon.co.uk/kp/card?asin=B0CJ3TYCXY&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_4PAFKYM012ZG8YXH12DF&amp;wmode=opaque" sandbox="allow-scripts allow-same-origin allow-popups" width="336" data-embed="true" frameborder="0" style="max-width:100%" type="text/html" height="550" ></iframe></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1695205488938_31009"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1695205488938_31009"><div class="sqs-block-content"><p id="passage"></p></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1695205488938_11312"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1695205488938_11312"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">Passage of Revenge - 2023</h4>
+</div>
+
+
+
+</div></div></div><div class="fe-block fe-block-860de2ba2d7a86267593"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-860de2ba2d7a86267593"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;"><strong>The hunter becomes the hunted in this tale of corruption and greed.</strong></p><p class="" style="white-space:pre-wrap;"><br>When Detective Harmann's arrogance gets an innocent woman killed, he sets in motion a slew of crimes which he must solve. His fury builds as he realises the crooks are mocking him, intentionally recreating his most famous solved crimes.<br><br>For all his moral failings, Harmann is a crack investigator and along with his partner Moore, he must race to identify his enemy and bring them to justice.<br><br>But his enemies are spurred by reasons Harmann cannot guess at and the intricacies of the crimes play the corrupt Detective straight into their hands. Staring back, Harmann will finally see the Passage of Revenge.</p>
+</div>
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="650ac8e439b6671e94ce52ee"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-650ac8e439b6671e94ce52ed {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(39,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-650ac8e439b6671e94ce52ed {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-650ac8e439b6671e94ce52ed {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(14,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-0e4a697c0e60c6260d6b {
+    grid-area: 1/2/18/10;
+    z-index: 3;
+  }
+
+  .fe-block-0e4a697c0e60c6260d6b .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-0e4a697c0e60c6260d6b .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0e4a697c0e60c6260d6b {
+      grid-area: 1/2/15/8;
+      z-index: 3;
+    }
+
+    .fe-block-0e4a697c0e60c6260d6b .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-0e4a697c0e60c6260d6b .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_12490 {
+    grid-area: 17/2/19/10;
+    z-index: 4;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_12490 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_12490 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695205488938_12490 {
+      grid-area: 1/8/3/16;
+      z-index: 4;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_12490 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_12490 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_32062 {
+    grid-area: 19/2/25/10;
+    z-index: 5;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_32062 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1695205488938_32062 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1695205488938_32062 {
+      grid-area: 1/2/2/6;
+      z-index: 5;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_32062 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1695205488938_32062 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-5de639950784371e45d3 {
+    grid-area: 25/2/40/10;
+    z-index: 2;
+  }
+
+  .fe-block-5de639950784371e45d3 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-5de639950784371e45d3 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-5de639950784371e45d3 {
+      grid-area: 3/8/11/24;
+      z-index: 2;
+    }
+
+    .fe-block-5de639950784371e45d3 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-5de639950784371e45d3 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-650ac8e439b6671e94ce52ed"><div class="fe-block fe-block-0e4a697c0e60c6260d6b"><div class="sqs-block embed-block sqs-block-embed" data-block-json="&#123;&quot;html&quot;:&quot;&lt;iframe type=\&quot;text/html\&quot; sandbox=\&quot;allow-scripts allow-same-origin allow-popups\&quot; width=\&quot;336\&quot; height=\&quot;550\&quot; frameborder=\&quot;0\&quot; allowfullscreen style=\&quot;max-width:100%\&quot; src=\&quot;https://read.amazon.co.uk/kp/card?asin=B0CJ2X28KF&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_CD86BQ42PN1SWNS2REVE\&quot; &gt;&lt;/iframe&gt;&quot;,&quot;resolvedBy&quot;:&quot;manual&quot;,&quot;customThumbEnabled&quot;:false&#125;" data-block-type="22" id="block-0e4a697c0e60c6260d6b"><div class="sqs-block-content"><iframe allowfullscreen src="https://read.amazon.co.uk/kp/card?asin=B0CJ2X28KF&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_CD86BQ42PN1SWNS2REVE&amp;wmode=opaque" sandbox="allow-scripts allow-same-origin allow-popups" width="336" data-embed="true" frameborder="0" style="max-width:100%" type="text/html" height="550" ></iframe></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1695205488938_12490"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1695205488938_12490"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">Immortal Ascended - 2023</h4>
+</div>
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1695205488938_32062"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1695205488938_32062"><div class="sqs-block-content"><p id="immortal"></p></div></div></div><div class="fe-block fe-block-5de639950784371e45d3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5de639950784371e45d3"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>Radoq is a Domerus, the warrior class born to protect humanity.</strong><br><br>When he is defeated and fails to protect the mortal lun'erus, Radoq's guilt overwhelms him. Enslaved and brutalised, he must play the role he was born to, standing as a leader even when he does not believe in himself.<br><br>But Radoq's duty cannot be ignored and the life he has lost beckons. But all is not as it seems. A new Sheriff has corrupted his home and imprisoned his family. His lover is disgusted by the very sight of him and a wily criminal seems to be the only one he can trust.<br><br>Radoq will be forced to navigate between romance, duty and power. In epic airship battles to towering mountaintop citadels, the burdens of leadership and duty will weigh heavily on him as he puts the needs of others before his own. Ultimately, he will have to choose between what is simple, and what is right.</p>
+</div>
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>books</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
